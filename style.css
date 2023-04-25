@@ -13,6 +13,8 @@ li{
 	display: inline-block;
 	margin: 30px;
 	vertical-align: middle;
+	font-family: 'IBM Plex Sans', sans-serif;
+
 }
 .wrapper{
 	margin-left: 790px;
@@ -30,6 +32,10 @@ li{
   margin-left: 10px;
   vertical-align: middle;
 }
+a{
+	text-decoration: none;
+	color: black;
+}
 .nav_list:last-child::after {
   display: none;
 }
@@ -38,17 +44,20 @@ li{
 }
 h1{
 	font-size: 40px;
+	font-family: 'IBM Plex Sans', sans-serif;
 
 }
 .title{
 	font-size: 30px;
 	width: 450px;
 	padding-top: 50px;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 .paragrap_style{
 	width: 400px;
 	padding-top: 40px;
 	font-size:20px ;
+	font-family: 'IBM Plex Sans', sans-serif;
 
 }
 .eye_icon{
@@ -71,11 +80,48 @@ button{
 	vertical-align: middle;
 	margin-left: 30px;
 }
-.box_h2{
+h2{
 	font-size: 30px;
 	padding-top: 130px;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 .paragrap_style1{
 	width: 600px;
 	padding-top: 50px;
+	font-size: 20px;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+.boxes{
+	display: inline-block;
+	width: 1225px;
+	height: 450px;
+	box-shadow: 0 24px 48px rgba(17,16,62,0.12);
+	margin: 50px;
+	background-color:#0865DE;
+	color: white;
+}
+.boxes_h4{
+	font-size: 30px;
+	padding-left: 70px;
+	font-family: 'IBM Plex Sans', sans-serif;
+	padding-top: 30px;
+
+}
+.boxes_h5{
+	padding-left: 70px;
+	padding-top: 40px;
+	font-size: 20px;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+.boxes_paragrap{
+	padding-left: 70px;
+	font-size: 13px;
+	padding-top: 10px;
+	color: #D1D1D1;
+}
+.box{
+	display: inline-block;
+}
+.box{
+	display: inline-block;
 }
