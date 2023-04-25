@@ -45,6 +45,7 @@ a{
 h1{
 	font-size: 40px;
 	font-family: 'IBM Plex Sans', sans-serif;
+	letter-spacing: 10px;
 
 }
 .title{
@@ -70,10 +71,15 @@ h1{
 	margin-left: 15px;
 	margin-right: 10px;
 	font-size: 11px;
+	color: white;
 }
-button{
+.contacter_button{
 	background-color: #FF7600;
 	margin-top: 60px;
+	border-color:#FF7600;
+	border-radius: 3px;
+	height: 40px;
+
 }
 .soc_icon{
 	width: 30px;
@@ -84,6 +90,7 @@ h2{
 	font-size: 30px;
 	padding-top: 130px;
 	font-family: 'IBM Plex Sans', sans-serif;
+	letter-spacing: 10px;
 }
 .paragrap_style1{
 	width: 600px;
@@ -124,4 +131,18 @@ h2{
 }
 .box{
 	display: inline-block;
+}
+.outils{
+	font-size: 12px;
+	display: inline-block;
+	padding-top: 100px;
+
+}
+.outils_button{
+	width: 130px;
+	height: 40px;
+	font-size: 11px;
+	margin-left: 10px;
+	background-color:white;
+	box-direction: none;
 }
