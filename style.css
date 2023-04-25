@@ -37,11 +37,11 @@ li{
 	padding-left: 100px;
 }
 h1{
-	font-size: 30px;
+	font-size: 40px;
 
 }
 .title{
-	font-size: 25px;
+	font-size: 30px;
 	width: 450px;
 	padding-top: 50px;
 }
@@ -70,4 +70,12 @@ button{
 	width: 30px;
 	vertical-align: middle;
 	margin-left: 30px;
+}
+.box_h2{
+	font-size: 30px;
+	padding-top: 130px;
+}
+.paragrap_style1{
+	width: 600px;
+	padding-top: 50px;
 }
