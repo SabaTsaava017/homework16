@@ -3,6 +3,9 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+body{
+	background-color: #F7F7F7;
+}
 .header_icon{
 	display: inline-block;
   vertical-align: middle;
@@ -145,4 +148,81 @@ h2{
 	margin-left: 10px;
 	background-color:white;
 	box-direction: none;
+}
+.WEBSITE_APP{
+	color: #959595;
+	font-size: 12px;
+}
+.paragrap_style2{
+	width: 260px;
+}
+.moon_hotel_img{
+	display: inline-block;
+	margin-top: 40px;
+	vertical-align: middle;
+}
+.moon_hotel_info{
+	display: inline-block;
+	margin-left: 30px;
+	vertical-align: middle;
+}
+.Terre-des-Hommes{
+	padding-top: 10px;
+}
+.WEBSITE_APP{
+padding-top: 10px
+}
+.paragrap_style2{
+	padding-top: 30px;
+	line-height: 21px;
+}
+.VOIR-LE-CASE-STUDY{
+	color: #002D69;
+}
+.hotel_box{
+	background-color:white ;
+	width: 1195px;
+	height: 400px;
+	box-shadow: 0 24px 48px rgba(17,16,62,0.12);
+}
+.block1{
+	width: 300px;
+	height: 500px;
+	box-shadow: 0 24px 48px rgba(17,16,62,0.12);
+	margin-top: 30px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 50px;
+}
+.build{
+	width: 300px;
+}
+.VOIR-LE-PROJET{
+	color: #002D69;
+	padding-top: 40px;
+}
+.block1_container{
+	padding-left: 30px;
+}
+.button_div{
+	text-align: center;
+	margin-right: 210px;
+}
+.EDUCATION{
+	font-family: 'IBM Plex Sans', sans-serif;
+	padding-top: 100px;
+	font-size: 25px;
+}
+.paragrap_style3{
+	width: 400px;
+	line-height: 35px;
+	font-size: 18px;
+	padding-top: 20px;
+}
+.div_info{
+	display: inline-block;
+	margin-left: 200px;
+}
+.div_info1{
+	display: inline-block;
 }
