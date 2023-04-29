@@ -142,12 +142,14 @@ h2{
 
 }
 .outils_button{
-	width: 130px;
-	height: 40px;
+	width: auto;
+	height: 30px;
 	font-size: 11px;
 	margin-left: 10px;
 	background-color:white;
 	box-direction: none;
+	border-color: white;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
 .WEBSITE_APP{
 	color: #959595;
@@ -225,4 +227,17 @@ padding-top: 10px
 }
 .div_info1{
 	display: inline-block;
+}
+.THEMATIQUE{
+	display: inline-block;
+	padding-top: 100px;
+}
+.THEMATIQUE_button{
+	width: auto;
+	height: 30px;
+	background-color: #0865DE;
+	color: white;
+	border-color:#0865DE ;
+	margin: 3px;
+	font-family: 'IBM Plex Sans', sans-serif;
 }
