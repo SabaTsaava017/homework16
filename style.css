@@ -261,7 +261,7 @@ padding-top: 10px
 .boxesss{
 	display: inline-block;
 }
-.box{
+.boxx{
 	width: 150px;
 	display: inline-block;
 }
@@ -328,4 +328,119 @@ padding-top: 10px
 }
 .button_div2{
 	margin-top: 60px;
+}
+.ELISA{
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-size: 17px;
+	padding-top: 50px;
+	padding-left: 30px;
+}
+.TERRE{
+	font-size: 12px;
+	color: #959595;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.paragrap_style6{
+	width: 370px;
+	font-family: 'IBM Plex Sans', sans-serif;
+	color: #000000CC;
+	line-height: 30px;
+	font-size: 14px;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+.elisa_box{
+	width: 400px;
+	height: 300px;
+	box-shadow: 0 24px 48px rgba(17,16,62,0.12);
+	display: inline-block;
+	margin: 30px;
+
+}
+.heart_icon{
+	width: 40px;
+	margin-left: 350px;
+	vertical-align: middle;
+}
+.elisa_box3{
+	display: inline-block;
+	width: 400px;
+	height: 340px;
+	box-shadow: 0 24px 48px rgba(17,16,62,0.12);
+}
+.OUS_CONTACTER{
+	font-size: 15px;
+	text-align: center;
+}
+.number{
+	color: #959595;
+	padding-top: 50px;
+	text-align: center;
+}
+.info{
+	color:#959595 ;
+	padding-top: 30px;
+	text-align: center;
+}
+.number_and_info{
+	width: 220px;
+	height: 400px;
+	box-shadow:0 24px 48px rgba(17, 16, 62, 0.12) ;
+	background-color:lightgray;
+	vertical-align: middle;
+	margin-top:80px ;
+}
+.number_and_info{
+	display: inline-block;
+}
+.NEWSLETTER{
+	font-family: 'IBM Plex Sans', sans-serif;
+	text-align: center;
+}
+.paragrap_style7{
+	width: 450px;
+	color: #111111;
+	line-height: 20px;
+	font-family: 'IBM Plex Sans', sans-serif;
+	padding-left: 100px;
+	padding-top: 60px;
+}
+.email_div{
+	width: 500px;
+	height: 400px;
+	box-shadow:0 24px 48px rgba(17, 16, 62, 0.12) ;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 80px ;
+}
+.email{
+	padding-left: 100px;
+	color: #111111;
+}
+.OK{
+	background-color: blue;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	color: white;
+}
+.email_input{
+	width: 250px;
+	height: 40px;
+}
+.Email_button{
+	margin-left: 100px;
+	margin-top: 20px;
+	border-color: #0865DE;
+}
+.footer_icon{
+	display: inline-block;
+  vertical-align: middle;
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+}
+.footer_paragrap{
+	vertical-align: middle;
 }
